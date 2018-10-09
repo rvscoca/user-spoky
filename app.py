@@ -10,5 +10,3 @@ api = Api(app, 	title='Spoky API',
                 default_label="Spoky related operations")
 spoky = Namespace('Spoky', path="/spoky")
 api.add_namespace(spoky)
-
-fsefsfsfsfsefsef
